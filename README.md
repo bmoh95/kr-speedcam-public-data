@@ -15,6 +15,8 @@
 
 값은 수정·정제·필터링하지 않았습니다 (예: 단속구분 값에 `1`/`01`/`1+2`/`01+02` 등 기관별 표기가 혼재).
 
-Stable URLs: GitHub release `data-20261015` assets.
+Stable URLs (release `data-20261015`):
+- EUC-KR: https://github.com/bmoh95/kr-speedcam-public-data/releases/download/data-20261015/kr_speedcam_euckr.csv
+- UTF-8: https://github.com/bmoh95/kr-speedcam-public-data/releases/download/data-20261015/kr_speedcam_utf8.csv
 
 This repository contains only public government data; it contains no third-party processed datasets.
